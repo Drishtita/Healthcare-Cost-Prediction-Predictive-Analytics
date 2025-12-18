@@ -1,15 +1,15 @@
 # Healthcare-Cost-Prediction-Predictive-Analytics
 Predictive analytics project to estimate annual medical insurance costs using machine learning.
 Healthcare Cost Prediction using Predictive Analytics
-#📌 Project Overview
+# Project Overview
 
 This project focuses on predicting annual medical insurance costs using predictive analytics and machine learning techniques. The objective is to analyze healthcare, demographic, lifestyle, and insurance-related factors and build accurate regression models for cost estimation.
 
-#Problem Statement
+# Problem Statement
 
 Healthcare costs vary significantly across individuals due to differences in medical conditions, healthcare utilization, and lifestyle habits. Accurate prediction of these costs can help insurers, healthcare providers, and policymakers make informed decisions.
 
-#Objectives
+# Objectives
 
 Perform exploratory data analysis (EDA) on healthcare data
 
@@ -21,7 +21,7 @@ Compare models using standard evaluation metrics
 
 Identify the best-performing predictive model
 
-#Dataset Information
+# Dataset Information
 
 Type: Healthcare Insurance Dataset
 
@@ -35,7 +35,7 @@ Prediction Type: Regression
 
 Dataset sourced from a publicly available healthcare insurance dataset (Kaggle / synthetic dataset for academic use).
 
-#Technologies Used
+# Technologies Used
 
 Python
 
@@ -48,7 +48,7 @@ Scikit-learn
 Jupyter Notebook
 
 
-#Methodology
+# Methodology
 
 Data preprocessing and cleaning
 
@@ -72,7 +72,7 @@ RMSE
 
 MAE
 
-#Results
+# Results
 
 Best Model: Random Forest Regressor
 
@@ -80,7 +80,7 @@ R² Score: ~0.95
 
 Healthcare utilization and chronic conditions were the strongest predictors of cost.
 
-#Key Insights
+# Key Insights
 
 Medical costs rise exponentially with chronic conditions
 
@@ -88,7 +88,7 @@ Healthcare utilization impacts costs more than demographics
 
 Preventive care and early intervention can significantly reduce expenses
 
-#Future Scope
+# Future Scope
 
 Real-time cost prediction systems
 
